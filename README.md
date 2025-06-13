@@ -1,21 +1,20 @@
-# 🦈 Shark Attacks Analysis – Capstone Project 5
+# Shark Attacks Analysis 
 
-## 📌 Project Overview
+## Project Overview
 
 This capstone project analyzes shark attack data from the past 100+ years across the globe. The goal is to uncover trends, high-risk zones, victim profiles, species involved, and patterns over time to support actionable decisions around marine safety, tourism, and conservation. The analysis leverages Power BI and Power Query for data transformation, modeling, and visualization.
 
----
 
-## 📂 Dataset Description
+
+## Dataset Description
 
 - **Source**: Provided in the capstone project brief
 - **Time Span**: 1900 to recent years
 - **Fields**: Date, Country, Area, Location, Activity, Victim Info (Age, Gender), Time, Shark Species, Injury Description, Fatality, etc.
 - **Format**: Excel spreadsheet
 
----
 
-## 🛠️ Tools & Skills Applied
+## Tools & Skills Applied
 
 - **Power BI** for dashboard development and data visualization
 - **Power Query** for extensive data cleaning and transformation
@@ -23,9 +22,9 @@ This capstone project analyzes shark attack data from the past 100+ years across
 - **Text Analysis** for injury classification and species grouping
 - **Data Modeling** for time-based and categorical analysis
 
----
 
-## 🔍 Key Questions Answered
+
+## Key Questions Answered
 
 1. What is the trend of shark attacks over time since 1900?
 2. Which countries and areas report the most shark attacks?
@@ -34,9 +33,9 @@ This capstone project analyzes shark attack data from the past 100+ years across
 5. Which species of sharks are involved most frequently in attacks?
 6. What additional insights can be drawn from the dataset?
 
----
 
-## 📊 Key Insights
+
+## Key Insights
 
 - Shark attacks have increased since the 1980s, likely due to increased tourism and better reporting.
 - The United States, Australia, and South Africa are the top three countries with the highest attack rates.
@@ -47,9 +46,9 @@ This capstone project analyzes shark attack data from the past 100+ years across
 - Most victims are males aged 15–35 engaging in water sports.
 - Some regions like Asia and South America may be underreporting incidents.
 
----
 
-## 📈 Key KPIs (Displayed as Cards in Dashboard)
+
+## Key KPIs (Displayed as Cards in Dashboard)
 
 - Total Number of Shark Attacks
 - Number of Countries Affected
@@ -61,9 +60,9 @@ This capstone project analyzes shark attack data from the past 100+ years across
 - Earliest and Latest Attack Year
 - Average Attacks Per Year
 
----
 
-## ✅ Recommendations
+
+##  Recommendations
 
 - Enhance safety measures (patrols, alerts, signage) in high-risk areas.
 - Run awareness campaigns focused on peak times and risky behaviors.
@@ -72,8 +71,6 @@ This capstone project analyzes shark attack data from the past 100+ years across
 - Improve first-response readiness on remote beaches.
 - Focus safety training and messaging on young, active water users.
 - Establish better data collection standards in underreported regions.
-
----
 
 ## 🖥️ Dashboard Preview
 
