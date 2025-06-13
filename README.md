@@ -53,12 +53,8 @@ This  project analyzes shark attack data from the past 100+ years across the glo
 - Total Number of Shark Attacks
 - Number of Countries Affected
 - Most Affected Country
-- Most Common Shark Species
-- Most Injured Body Part
-- Peak Time of Day for Attacks
+- Fatility rate%
 - Confirmed Fatal Attacks
-- Earliest and Latest Attack Year
-- Average Attacks Per Year
 
 
 
@@ -72,9 +68,7 @@ This  project analyzes shark attack data from the past 100+ years across the glo
 - Focus safety training and messaging on young, active water users.
 - Establish better data collection standards in underreported regions.
 
-## 🖥️ Dashboard Preview
+##  Dashboard Preview
 
-📷 *(Include screenshot of your Power BI dashboard here)*
-
----
+![Dashboard Screenshot](https://github.com/Olajuwonhikmat/Shark-Attacks-/blob/56692a379816a57e057f91080b06f70512a1ea66/Shark%20Attacks%20dashboard%20.PNG)
 
