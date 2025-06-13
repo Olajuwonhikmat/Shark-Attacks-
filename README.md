@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This capstone project analyzes shark attack data from the past 100+ years across the globe. The goal is to uncover trends, high-risk zones, victim profiles, species involved, and patterns over time to support actionable decisions around marine safety, tourism, and conservation. The analysis leverages Power BI and Power Query for data transformation, modeling, and visualization.
+This  project analyzes shark attack data from the past 100+ years across the globe. The goal is to uncover trends, high-risk zones, victim profiles, species involved, and patterns over time to support actionable decisions around marine safety, tourism, and conservation. The analysis leverages Power BI and Power Query for data transformation, modeling, and visualization.
 
 
 
